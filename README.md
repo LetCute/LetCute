@@ -3,6 +3,7 @@
   <br>
   <div>  
     <br>
+    <p>I'm learning Java programming</p>
     <img src="https://github-readme-stats.vercel.app/api?username=letcute&show_icons=true&theme=radical">
   </div>
 </div>
