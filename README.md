@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm LetCute</h1>
+<h1 align="center">Hi there 👋, I'm Let</h1>
 <p align="center">
   Frontend Developer | Backend Developer | Minecraft Plugin Dev
 </p>
