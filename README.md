@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm LetCute</h1>
 <p align="center">
-  Backend Developer | Minecraft Plugin Dev | DDD Enthusiast
+  Backend Developer | Minecraft Plugin Dev
 </p>
 
 <p align="center">
